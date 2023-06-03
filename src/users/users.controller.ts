@@ -9,7 +9,7 @@ import { TransformInterceptor } from './transform.interceptor';
 @Controller('users')
 @UseFilters(new HttpExceptionFilter())
 @UseInterceptors(new TransformInterceptor())
-@UsePipes(new ValidationPipe({ transform: true }))
+@UsePipes(new ValidationPipe({ transform: true,whitelist: true }))
 export class UsersController {
   constructor(private readonly usersService: UsersService) { }
 
