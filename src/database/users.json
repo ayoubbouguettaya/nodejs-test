@@ -1,0 +1,18 @@
+[
+  {
+    "id": "033bb020-a931-41d9-a877-63f481120c95",
+    "firstName": "ayoub",
+    "lastName": "bouguettaya",
+    "password": "$2b$10$d.yF8OoBBXXDNhS8RVmHqum5Os4if0JD0aDkS1.SxKE79hUA3bSz6",
+    "email": "ayoub@gmail.com",
+    "birthDay": "2015-03-25T00:00:00.000Z"
+  },
+  {
+    "id": "bf061875-5cce-4d33-b7ba-6d59f9281354",
+    "firstName": "azer",
+    "lastName": "bouguettaya",
+    "password": "$2b$10$/TGFmHJGaK8cnfMkwAR6ZuC4J8WIdxtNd8CyAAdZFaQuWk23BHzIS",
+    "email": "ayoaaab@gmail.com",
+    "birthDay": "2015-03-25T00:00:00.000Z"
+  }
+]
